@@ -1,0 +1,1681 @@
+{
+    "data": [{
+             "type": "POPULAR_MESSAGE",
+             "item": {
+             "id": "580b3d797cce76130074c85f",
+             "content": "官方：里皮就任中国男足国家队主教练！据报道，里皮的年薪为1550万欧，由恒大以恒大足校的名义支付，任期到2019年1月底。教练组成员将是其执教广州恒大时的原班人马。足协承诺将球队一切权利（技战术制定、用人、排兵布阵，甚至奖金分配）交给里皮，里皮的国足主帅首秀将是11月15日主场对阵卡塔尔",
+             "title": "中国男足比赛信息",
+             "messageId": 268965,
+             "topicId": 275,
+             "sourceRawValue": "none",
+             "messagePrefix": "中国男足",
+             "collectCount": 31,
+             "commentCount": 20,
+             "popularity": 31,
+             "createdAt": "2016-10-22T10:20:41.541Z",
+             "updatedAt": "2016-10-22T11:00:07.914Z",
+             "topic": {
+             "id": "5550a694e4b0eb4d82aa3c54",
+             "content": "中国男足比赛信息",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vqf8veju19qi19u127miur80.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_HOT_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FlBRcKyAjQFC-CzyhhQ8zXP0J_U7?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FlBRcKyAjQFC-CzyhhQ8zXP0J_U7?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FlBRcKyAjQFC-CzyhhQ8zXP0J_U7?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FlBRcKyAjQFC-CzyhhQ8zXP0J_U7?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 650,
+                             "height": 444
+                             }],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b37afb5c06312007fc867",
+             "content": "视频-季前赛22日十佳球 杜兰特高空轰炸唐斯隔人暴扣",
+             "title": "NBA每日十佳球",
+             "messageId": 268926,
+             "topicId": 932,
+             "linkUrl": "http://v.qq.com/cover/b/b45jsc5babify9x.html?vid=n0022vljh57",
+             "sourceRawValue": "video",
+             "collectCount": 6,
+             "commentCount": 0,
+             "popularity": 6,
+             "createdAt": "2016-10-22T09:55:59.139Z",
+             "updatedAt": "2016-10-22T09:55:59.139Z",
+             "topic": {
+             "id": "5649bf1d08987312006e0ac0",
+             "content": "NBA每日十佳球",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vphbv1l3rto7ibnev0l732n.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "video": {
+             "type": "VIDEO",
+             "thumbnailUrl": "http://media-meta.ruguoapp.com/3af102a0766c083bef295c1a6b99ea1a.jpg?imageView2/0/w/800/h/800",
+             "source": []
+             },
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b34017cce76130074c814",
+             "content": "知乎好问题：\n(1) 维修保养汽车时有哪些陷阱？如何避免被坑？\n(2) 如何自己练出芭蕾气质的脖子肩和背？\n(3) 讲究餐具搭配的人是怎样选择餐具的？\n(4) 市场上的货币是如何多起来的？\n(5) 如何学习家具设计？",
+             "title": "知乎日报内容精选",
+             "messageId": 268903,
+             "topicId": 386,
+             "linkUrl": "http://daily.zhihu.com/story/8910032",
+             "sourceRawValue": "link",
+             "collectCount": 146,
+             "commentCount": 1,
+             "popularity": 146,
+             "createdAt": "2016-10-22T09:40:17.329Z",
+             "updatedAt": "2016-10-22T09:40:17.329Z",
+             "topic": {
+             "id": "557271cbe4b0ac81d7f12f43",
+             "content": "知乎日报内容精选",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vvu0l132uvvh1hc1kgq1aqb9d.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/cadad6523a892285abf47cd9b807a767?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/cadad6523a892285abf47cd9b807a767?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/cadad6523a892285abf47cd9b807a767?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/cadad6523a892285abf47cd9b807a767?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 640,
+                             "height": 640
+                             }],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b2266b5c06312007fc7d6",
+             "content": "亲生的系列一个合集",
+             "title": "今天有什么好笑的",
+             "messageId": 268820,
+             "topicId": 176,
+             "linkUrl": "http://weibo.com/2970036311/EdZJEEqoi",
+             "sourceRawValue": "link",
+             "messagePrefix": "今日好笑",
+             "collectCount": 1011,
+             "commentCount": 42,
+             "popularity": 1011,
+             "createdAt": "2016-10-22T08:25:10.275Z",
+             "updatedAt": "2016-10-22T08:25:10.275Z",
+             "topic": {
+             "id": "55138a7ee4b07860af5a8a11",
+             "content": "今天有什么好笑的",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vql0c18ln29l17s9iuk1e7r91.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FtQIOVN8AvJl6m6eAca0qiPcmslp.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FtQIOVN8AvJl6m6eAca0qiPcmslp.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FtQIOVN8AvJl6m6eAca0qiPcmslp.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FtQIOVN8AvJl6m6eAca0qiPcmslp.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 1024,
+                             "height": 1111
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FghV1mKT2kTepUs84GfcoqrPZA_o.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FghV1mKT2kTepUs84GfcoqrPZA_o.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FghV1mKT2kTepUs84GfcoqrPZA_o.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FghV1mKT2kTepUs84GfcoqrPZA_o.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 1024,
+                             "height": 1156
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FuWTxEs3RiRoq-l9gJDa0faWMpYy.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FuWTxEs3RiRoq-l9gJDa0faWMpYy.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FuWTxEs3RiRoq-l9gJDa0faWMpYy.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FuWTxEs3RiRoq-l9gJDa0faWMpYy.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 688,
+                             "height": 777
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FqSTTPBZ7mZBvURnVfoZwOyN8Kxx.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FqSTTPBZ7mZBvURnVfoZwOyN8Kxx.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FqSTTPBZ7mZBvURnVfoZwOyN8Kxx.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FqSTTPBZ7mZBvURnVfoZwOyN8Kxx.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 600,
+                             "height": 647
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FuQWFAVG6qkjAanqpLaNZypothN9.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FuQWFAVG6qkjAanqpLaNZypothN9.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FuQWFAVG6qkjAanqpLaNZypothN9.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FuQWFAVG6qkjAanqpLaNZypothN9.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 1024,
+                             "height": 1280
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/Ft7FsX2lgFwM8-NS73AF6coCDicG.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/Ft7FsX2lgFwM8-NS73AF6coCDicG.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/Ft7FsX2lgFwM8-NS73AF6coCDicG.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/Ft7FsX2lgFwM8-NS73AF6coCDicG.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 478,
+                             "height": 345
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FgOFjp7hexrBY_RFqwlrPfoAEPTT.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FgOFjp7hexrBY_RFqwlrPfoAEPTT.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FgOFjp7hexrBY_RFqwlrPfoAEPTT.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FgOFjp7hexrBY_RFqwlrPfoAEPTT.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 1024,
+                             "height": 796
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/Fm6BXzn9bKoNcAW8OtPMGFxIW6Yo.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/Fm6BXzn9bKoNcAW8OtPMGFxIW6Yo.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/Fm6BXzn9bKoNcAW8OtPMGFxIW6Yo.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/Fm6BXzn9bKoNcAW8OtPMGFxIW6Yo.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 1024,
+                             "height": 1138
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FiI4Vor22L2RYUxn2Vj4iA-W8ifL.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FiI4Vor22L2RYUxn2Vj4iA-W8ifL.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FiI4Vor22L2RYUxn2Vj4iA-W8ifL.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FiI4Vor22L2RYUxn2Vj4iA-W8ifL.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 431,
+                             "height": 283
+                             }],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b1ee57cce76130074c792",
+             "content": "YOKU MOKU YCG-D 手工蛋卷，日本高级甜点品牌YOKU MOKU的手工蛋卷一直深受欢迎，他们的完美蛋卷配方闻名日本糕点界：高比例天然香醇的北海道生乳制作的奶油加上制定面厂生产的面粉，还有日本上白糖和天然波本香草棒，香味浓郁，入口酥脆。当你吃过之后会觉得蛋卷就该是这个味儿",
+             "title": "有什么好东西值得买",
+             "messageId": 268780,
+             "topicId": 230,
+             "linkUrl": "https://www.amazon.co.jp/dp/B00C6VIA6C",
+             "sourceRawValue": "link",
+             "messagePrefix": "值得买",
+             "collectCount": 184,
+             "commentCount": 8,
+             "popularity": 184,
+             "createdAt": "2016-10-22T08:10:13.262Z",
+             "updatedAt": "2016-10-22T08:10:13.262Z",
+             "iconUrl": "https://cdn.ruguoapp.com/resources/shopping_cart.png",
+             "topic": {
+             "id": "5540e181e4b063749a7abfd9",
+             "content": "有什么好东西值得买",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vv14m6mh1gua1akq1808q6d4g.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FrMVB7OcxTbKJxJtFpKNDMHnp8Uf.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FrMVB7OcxTbKJxJtFpKNDMHnp8Uf.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FrMVB7OcxTbKJxJtFpKNDMHnp8Uf.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FrMVB7OcxTbKJxJtFpKNDMHnp8Uf.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 500,
+                             "height": 500
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/Fm0edl9jlbij10jJ2SvHXCeXJNY6.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/Fm0edl9jlbij10jJ2SvHXCeXJNY6.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/Fm0edl9jlbij10jJ2SvHXCeXJNY6.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/Fm0edl9jlbij10jJ2SvHXCeXJNY6.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 500,
+                             "height": 500
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FvSulf2FWfecuX88peX4vICmQRDn.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FvSulf2FWfecuX88peX4vICmQRDn.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FvSulf2FWfecuX88peX4vICmQRDn.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FvSulf2FWfecuX88peX4vICmQRDn.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 500,
+                             "height": 500
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b138bb5c06312007fc754",
+             "content": "柯基宝宝告诉你，什么叫绝望……",
+             "title": "YouTube每日最火视频",
+             "messageId": 268723,
+             "topicId": 395,
+             "linkUrl": "http://www.miaopai.com/show/kntSStkQTlzCYbqY1wBmxA__.htm",
+             "sourceRawValue": "video",
+             "messagePrefix": "YouTube今日最火视频",
+             "collectCount": 535,
+             "commentCount": 25,
+             "popularity": 535,
+             "createdAt": "2016-10-22T07:21:47.698Z",
+             "updatedAt": "2016-10-22T07:21:47.698Z",
+             "topic": {
+             "id": "5577b317e4b00ff508c0e780",
+             "content": "YouTube每日最火视频",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vpnikm1f1pgmg1419m4162a3p.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "video": {
+             "type": "VIDEO",
+             "thumbnailUrl": "http://media-meta.ruguoapp.com/b45f7b48e8a33a5915a83283fbd7e30c.jpg?imageView2/0/w/800/h/800",
+             "source": []
+             },
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b12d9d24b1611002b370f",
+             "content": "(1) 如何看待 10 月 21 日 Twitter、Github 等 DNS 遭到大规模 DDoS 攻击？\n(2) DDoS 的肉鸡都是哪来的?",
+             "title": "知乎日报内容精选",
+             "messageId": 268716,
+             "topicId": 386,
+             "linkUrl": "http://daily.zhihu.com/story/8909527",
+             "sourceRawValue": "link",
+             "collectCount": 105,
+             "commentCount": 5,
+             "popularity": 105,
+             "createdAt": "2016-10-22T07:18:49.404Z",
+             "updatedAt": "2016-10-22T07:18:49.404Z",
+             "topic": {
+             "id": "557271cbe4b0ac81d7f12f43",
+             "content": "知乎日报内容精选",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vvu0l132uvvh1hc1kgq1aqb9d.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/15a7579166d5bc99333ba2757383941f?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/15a7579166d5bc99333ba2757383941f?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/15a7579166d5bc99333ba2757383941f?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/15a7579166d5bc99333ba2757383941f?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 640,
+                             "height": 640
+                             }],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580b02a07cce76130074c6ad",
+             "content": "即刻iOS 2.7.1版已经上线，全面适配了iOS 10的全新通知中心样式，让展示信息清晰度再次大大提升了，大家都升级了吗？另外对于6s之后机型的用户，我们也全面加入了3D Touch的操作，无论在桌面重按即刻图标还是在通知中心重按单条通知，都会有全新的预览操作哦（见附图）。如果喜欢的话，可以考虑到App Store给我们一个好评哦~（我的-设置-给即刻评分）",
+             "title": "即刻使用小贴士",
+             "messageId": 268593,
+             "topicId": 497,
+             "sourceRawValue": "none",
+             "messagePrefix": "即刻小贴士",
+             "collectCount": 137,
+             "commentCount": 21,
+             "popularity": 137,
+             "createdAt": "2016-10-22T06:09:36.605Z",
+             "updatedAt": "2016-10-22T06:09:36.605Z",
+             "topic": {
+             "id": "55a8e419e4b00d44e1e29d84",
+             "content": "即刻使用小贴士",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1ard07478va0ocffb71f5fk5tj.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FifbPHNCw0QPe182X4FGDREwDcKf.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FifbPHNCw0QPe182X4FGDREwDcKf.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FifbPHNCw0QPe182X4FGDREwDcKf.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FifbPHNCw0QPe182X4FGDREwDcKf.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 719,
+                             "height": 1280
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FlJrDt37dmPyzPQvmjcz5IhPGKLS.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FlJrDt37dmPyzPQvmjcz5IhPGKLS.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FlJrDt37dmPyzPQvmjcz5IhPGKLS.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FlJrDt37dmPyzPQvmjcz5IhPGKLS.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 719,
+                             "height": 1280
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FsvGa0S_d9mUmsbwZCpUxp8rswVw.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FsvGa0S_d9mUmsbwZCpUxp8rswVw.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FsvGa0S_d9mUmsbwZCpUxp8rswVw.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FsvGa0S_d9mUmsbwZCpUxp8rswVw.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 719,
+                             "height": 1280
+                             }],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580af9ee7cce76130074c67c",
+             "content": "【剪切、拷贝、粘贴和其他常用快捷键】Command + shift + Z, 反向撤消当前动作",
+             "title": "每天一个Mac快捷键介绍",
+             "messageId": 268563,
+             "topicId": 164,
+             "sourceRawValue": "none",
+             "messagePrefix": "Mac快捷键",
+             "collectCount": 23,
+             "commentCount": 1,
+             "popularity": 23,
+             "createdAt": "2016-10-22T05:32:30.992Z",
+             "updatedAt": "2016-10-22T05:32:30.992Z",
+             "topic": {
+             "id": "550be2f3e4b05a2197efa874",
+             "content": "每天一个Mac快捷键介绍",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vvbdjhddm6j1rukovkcq16b.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "read": false,
+             "collected": false
+             },
+             "read": false
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580af16d7cce76130074c645",
+             "content": "中国污街访；NBA名人堂新闻；TOPSHOP折扣优惠提醒",
+             "title": "即刻有新主题",
+             "messageId": 268521,
+             "topicId": 209,
+             "linkUrl": "jike://newtopiclist",
+             "sourceRawValue": "link",
+             "messagePrefix": "即刻新主题",
+             "collectCount": 70,
+             "commentCount": 0,
+             "popularity": 70,
+             "createdAt": "2016-10-22T04:56:13.356Z",
+             "updatedAt": "2016-10-22T04:56:13.356Z",
+             "iconUrl": "https://cdn.ruguoapp.com/resources/icons/new-topic-list.png",
+             "topic": {
+             "id": "5520fb02e4b0d592785f250c",
+             "content": "即刻有新主题",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vqv81batoa4rtj2tcal3aq.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ae9dcd24b1611002b3614",
+             "content": "神奇女侠75周年纪念日！",
+             "title": "Geek史上的今天",
+             "messageId": 268496,
+             "topicId": 2232,
+             "sourceRawValue": "none",
+             "collectCount": 12,
+             "commentCount": 0,
+             "popularity": 12,
+             "createdAt": "2016-10-22T04:23:56.258Z",
+             "updatedAt": "2016-10-22T04:23:56.258Z",
+             "topic": {
+             "id": "57dfe1131ea8e01200b8c2c0",
+             "content": "Geek史上的今天",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/FgpCIjJqyB93j6Hha7TiKRHg0h1w.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FiaLN_KI_7c6E6X14LjZu1SHW-Q1.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FiaLN_KI_7c6E6X14LjZu1SHW-Q1.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FiaLN_KI_7c6E6X14LjZu1SHW-Q1.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FiaLN_KI_7c6E6X14LjZu1SHW-Q1.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 500,
+                             "height": 346
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ae7d27cce76130074c618",
+             "content": "高速摄影机，是时间维度上的显微镜。",
+             "title": "浴室沉思",
+             "messageId": 268478,
+             "topicId": 779,
+             "linkUrl": "http://weibo.com/2964236717/EdLTWd9dJ",
+             "sourceRawValue": "link",
+             "messagePrefix": "浴室沉思",
+             "collectCount": 185,
+             "commentCount": 10,
+             "popularity": 185,
+             "createdAt": "2016-10-22T04:15:14.422Z",
+             "updatedAt": "2016-10-22T04:15:14.422Z",
+             "topic": {
+             "id": "5618c159add4471100150637",
+             "content": "浴室沉思",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vviaq5vm235fvu1tbi1uo37f.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ae044d24b1611002b35c0",
+             "content": "如果你听过日式中文口音，就不会觉得日式英语可怕了",
+             "title": "今天有什么好笑的",
+             "messageId": 268405,
+             "topicId": 176,
+             "linkUrl": "http://video.weibo.com/show?fid=1034:27483f46a4bc4f3871369622796b8595",
+             "sourceRawValue": "video",
+             "messagePrefix": "今日好笑",
+             "collectCount": 756,
+             "commentCount": 66,
+             "popularity": 756,
+             "createdAt": "2016-10-22T03:43:00.290Z",
+             "updatedAt": "2016-10-22T03:43:00.290Z",
+             "topic": {
+             "id": "55138a7ee4b07860af5a8a11",
+             "content": "今天有什么好笑的",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vql0c18ln29l17s9iuk1e7r91.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "video": {
+             "type": "VIDEO",
+             "thumbnailUrl": "http://media-meta.ruguoapp.com/a7152aec9f9d1f99afbdf8fbf2f1c36f.jpg?imageView2/0/w/800/h/800",
+             "source": []
+             },
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580add8db5c06312007fc5ed",
+             "content": "Air Jordan VI Pinnacle       ——\"Metallic Gold\"版本发售为纪念乔丹获得NBA生涯第一冠而推出的金色AJ6 Pinnacle版本，你买到了吗？发售日期：2016年10月22日货号：854271-730售价：250美元图片来自：WishATL",
+             "title": "Air Jordan新鞋发售提醒",
+             "messageId": 268373,
+             "topicId": 662,
+             "linkUrl": "http://weibo.com/1133914947/EdZimp9oN",
+             "sourceRawValue": "link",
+             "collectCount": 13,
+             "commentCount": 0,
+             "popularity": 13,
+             "createdAt": "2016-10-22T03:31:25.819Z",
+             "updatedAt": "2016-10-22T03:31:25.819Z",
+             "topic": {
+             "id": "55eee3447ed41311000fc5b7",
+             "content": "Air Jordan新鞋发售提醒",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a9500dg51b8d1s89vf611chsqv2.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/063d47918300bc421f4380791ba457ed?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/063d47918300bc421f4380791ba457ed?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/063d47918300bc421f4380791ba457ed?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/063d47918300bc421f4380791ba457ed?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 650,
+                             "height": 650
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/9e878382c11a6be691a7f9350f70daf9?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/9e878382c11a6be691a7f9350f70daf9?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/9e878382c11a6be691a7f9350f70daf9?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/9e878382c11a6be691a7f9350f70daf9?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 650,
+                             "height": 650
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/150c43da3e6c9f74cf6a0fba769a62e4?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/150c43da3e6c9f74cf6a0fba769a62e4?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/150c43da3e6c9f74cf6a0fba769a62e4?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/150c43da3e6c9f74cf6a0fba769a62e4?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 650,
+                             "height": 650
+                             }, {
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/8f000b6b10083cbc361de4e378743cf5?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/8f000b6b10083cbc361de4e378743cf5?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/8f000b6b10083cbc361de4e378743cf5?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/8f000b6b10083cbc361de4e378743cf5?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 650,
+                             "height": 650
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ad2bcb5c06312007fc5a1",
+             "content": "一键管理所有扩展，这个工具支持一键管理所有扩展，包括一键禁用所有扩展、一键开启原有扩展、扩展的逐个禁用和开启、右击扩展等功能",
+             "title": "Chrome浏览器扩展程序推荐",
+             "messageId": 268314,
+             "topicId": 1597,
+             "linkUrl": "https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja",
+             "sourceRawValue": "link",
+             "messagePrefix": "Chrome扩展程序推荐",
+             "collectCount": 126,
+             "commentCount": 7,
+             "popularity": 126,
+             "createdAt": "2016-10-22T02:45:16.346Z",
+             "updatedAt": "2016-10-22T02:45:16.346Z",
+             "topic": {
+             "id": "5720a2b25f0ba71200ff8a0e",
+             "content": "Chrome浏览器扩展程序推荐",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1ahe4sr7j14jd16um1ai51odorav1m.png?imageView2/0/w/120/h/120/q/30",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FvJJyzeaNe2Z1JePO_YuwB65RuBK.png?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FvJJyzeaNe2Z1JePO_YuwB65RuBK.png?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FvJJyzeaNe2Z1JePO_YuwB65RuBK.png?imageView2/0/h/600/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FvJJyzeaNe2Z1JePO_YuwB65RuBK.png?imageView2/0/h/1000",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "png",
+                             "width": 1962,
+                             "height": 1226
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ad0ebd24b1611002b354b",
+             "content": "据我观察，很多跟渣男分分合合纠缠不清的女孩，基本都是没有被爱过的。不管是在原生家庭还是朋友圈子，她不知道真正被爱的样子，也就把那些情绪的千回百转误解为爱情了    —— 美嘉.rar",
+             "title": "饭否每日精选",
+             "messageId": 268303,
+             "topicId": 1345,
+             "linkUrl": "http://blog.fanfou.com/digest/#/2016-10-22.daily.daily",
+             "sourceRawValue": "link",
+             "collectCount": 362,
+             "commentCount": 11,
+             "popularity": 362,
+             "createdAt": "2016-10-22T02:37:31.243Z",
+             "updatedAt": "2016-10-22T02:37:31.243Z",
+             "topic": {
+             "id": "56d177a27cb3331100465f72",
+             "content": "饭否每日精选",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1ach6nm599m94re1gvj14r71jaso.jpg?imageView2/0/w/120/h/120/q/30",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580ac618b5c06312007fc537",
+             "content": "如何看待李安的新电影《比利林恩漫长的中场休息》？",
+             "title": "知乎日报内容精选",
+             "messageId": 268212,
+             "topicId": 386,
+             "linkUrl": "http://daily.zhihu.com/story/8898236",
+             "sourceRawValue": "link",
+             "collectCount": 127,
+             "commentCount": 10,
+             "popularity": 127,
+             "createdAt": "2016-10-22T01:51:20.071Z",
+             "updatedAt": "2016-10-22T01:51:20.071Z",
+             "topic": {
+             "id": "557271cbe4b0ac81d7f12f43",
+             "content": "知乎日报内容精选",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vvu0l132uvvh1hc1kgq1aqb9d.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/aa9e165f8d847829f51aed3838b1103d?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/aa9e165f8d847829f51aed3838b1103d?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/aa9e165f8d847829f51aed3838b1103d?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/aa9e165f8d847829f51aed3838b1103d?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 640,
+                             "height": 640
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580abcfcb5c06312007fc511",
+             "content": "美国网站技术提供商Dyn宣布，该公司在当地时间周五早上遭遇了一次DDoS（分布式拒绝服务）攻击，从而导致许多网站在美国东海岸地区宕机，如Netflix、Twitter、Spotify和Reddit等",
+             "title": "一觉醒来世界发生了什么",
+             "messageId": 268168,
+             "topicId": 223,
+             "linkUrl": "http://tech.sina.cn/i/gn/2016-10-22/detail-ifxwztrt0100881.d.html",
+             "sourceRawValue": "link",
+             "messagePrefix": "一觉醒来世界发生了什么",
+             "collectCount": 150,
+             "commentCount": 24,
+             "popularity": 150,
+             "createdAt": "2016-10-22T01:12:28.452Z",
+             "updatedAt": "2016-10-22T01:12:28.452Z",
+             "topic": {
+             "id": "553870e8e4b0cafb0a1bef68",
+             "content": "一觉醒来世界发生了什么",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vq7puj45lm21bmni019sq6k.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580aac66b5c06312007fc4be",
+             "content": "给职棒让道，骑士揭幕战将提前半小时开打",
+             "title": "克利夫兰骑士队新闻",
+             "messageId": 268111,
+             "topicId": 1364,
+             "linkUrl": "http://www.bbonfire.com/detail/24392?p=article",
+             "sourceRawValue": "link",
+             "collectCount": 1,
+             "commentCount": 0,
+             "popularity": 1,
+             "createdAt": "2016-10-22T00:01:42.084Z",
+             "updatedAt": "2016-10-22T00:01:42.084Z",
+             "topic": {
+             "id": "56d69d2a803dbd1200144385",
+             "content": "克利夫兰骑士队新闻",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/FnutAUZSDkp7FNF88AN5v3mzGO8t.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/4005ea8e68de4776d7a1bf360227c37b?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/4005ea8e68de4776d7a1bf360227c37b?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/4005ea8e68de4776d7a1bf360227c37b?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/4005ea8e68de4776d7a1bf360227c37b?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 501,
+                             "height": 367
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580aa51e7cce76130074c45e",
+             "content": "骑士不想支付小莫薪水，欲将他和迈克雷打包送走",
+             "title": "克利夫兰骑士队新闻",
+             "messageId": 268085,
+             "topicId": 1364,
+             "linkUrl": "http://www.bbonfire.com/detail/24385?p=article",
+             "sourceRawValue": "link",
+             "collectCount": 23,
+             "commentCount": 0,
+             "popularity": 23,
+             "createdAt": "2016-10-21T23:30:38.804Z",
+             "updatedAt": "2016-10-21T23:30:38.804Z",
+             "topic": {
+             "id": "56d69d2a803dbd1200144385",
+             "content": "克利夫兰骑士队新闻",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/FnutAUZSDkp7FNF88AN5v3mzGO8t.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/2fb1be05c7fc8e0c7277068d5aa0ab2c?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/2fb1be05c7fc8e0c7277068d5aa0ab2c?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/2fb1be05c7fc8e0c7277068d5aa0ab2c?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/2fb1be05c7fc8e0c7277068d5aa0ab2c?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 768,
+                             "height": 576
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             }, {
+             "type": "MESSAGE",
+             "item": {
+             "id": "580a8fbed24b1611002b341b",
+             "content": "(1) 美国军舰擅入我西沙领海，中国海军立即行动\n(2) 中国禁止开发三沙蓝洞，或欲加强对争议海域控制\n(3) 中国正式启动时速600公里磁浮列车研发\n(4) 上海将成首个普及千兆宽带城市，2018年全市覆盖\n(5) 最高法：已依法强制执行“狼牙山五壮士”案判决",
+             "title": "一觉醒来世界发生了什么",
+             "messageId": 268065,
+             "topicId": 223,
+             "linkUrl": "https://medium.ruguoapp.com/2016/10/21/yi-jue-xing-lai-1022/",
+             "sourceRawValue": "link",
+             "messagePrefix": "一觉醒来世界发生了什么",
+             "collectCount": 249,
+             "commentCount": 59,
+             "popularity": 249,
+             "createdAt": "2016-10-21T21:59:26.298Z",
+             "updatedAt": "2016-10-21T21:59:26.298Z",
+             "topic": {
+             "id": "553870e8e4b0cafb0a1bef68",
+             "content": "一觉醒来世界发生了什么",
+             "thumbnailUrl": "https://cdn.ruguoapp.com/o_1a94vq7puj45lm21bmni019sq6k.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+             "isValid": true,
+             "ref": "NEWS_FEED_MESSAGE"
+             },
+             "pictureUrls": [{
+                             "thumbnailUrl": "https://cdn.ruguoapp.com/FjE9jTOku54c1kt6eDjLEvqDGI91.jpg?imageView/0/w/2000/h/300/q/30",
+                             "smallPicUrl": "https://cdn.ruguoapp.com/FjE9jTOku54c1kt6eDjLEvqDGI91.jpg?imageView/0/w/2000/h/400/q/30",
+                             "middlePicUrl": "https://cdn.ruguoapp.com/FjE9jTOku54c1kt6eDjLEvqDGI91.jpg?imageView2/0/h/600/interlace/1/q/30",
+                             "picUrl": "https://cdn.ruguoapp.com/FjE9jTOku54c1kt6eDjLEvqDGI91.jpg?imageView2/0/h/1000/interlace/0",
+                             "cropperPosX": 0.5,
+                             "cropperPosY": 0.5,
+                             "format": "jpeg",
+                             "width": 550,
+                             "height": 733
+                             }],
+             "read": true,
+             "collected": false
+             },
+             "read": true
+             },{
+"type": "POPULAR_MESSAGE",
+"item": {
+"id": "5804a844d03d8b1100bbfc53",
+"content": "苹果2017校招启动，加入一个引领行业潮流的团队",
+"title": "校园招聘最新资讯",
+"messageId": 260605,
+"topicId": 2108,
+"linkUrl": "http://mp.weixin.qq.com/s?__biz=MzA5Nzk2MjYzNQ==&mid=2651260648&idx=1&sn=5880a9e436561b0512fc2e2944695e23&chksm=8b6b790cbc1cf01aeb5c520a8f775d8c48de37a796bddf6ab99360077f5d77c3e869878bd611#rd",
+"sourceRawValue": "link",
+"collectCount": 63,
+"commentCount": 5,
+"popularity": 63,
+"createdAt": "2016-10-17T10:30:28.353Z",
+"updatedAt": "2016-10-17T10:30:28.353Z",
+"topic": {
+"id": "57bc191fbe21551100c8cbfc",
+"content": "校园招聘最新资讯",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1aqrc1irdibvok61ghvbu41enej.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_HOT_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/71890e890e04bc16888cb0daf4fc1f4d?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/71890e890e04bc16888cb0daf4fc1f4d?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/71890e890e04bc16888cb0daf4fc1f4d?imageView2/0/h/600/q/30",
+"picUrl": "http://cdn.ruguoapp.com/71890e890e04bc16888cb0daf4fc1f4d?imageView2/0/h/1000",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "png",
+"width": 900,
+"height": 500
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804bbd7537fe41200225286",
+"content": "(1) 今日15时14分，青海杂多县附近发生6.3级左右地震，震中位于无人区，尚无伤亡报告\n(2) 媒体揭\"民族大业\"微信群骗局：针对老人洗脑，称只需报名，保守秘密即可获分兆亿元皇家资产\n(3) 重庆女子请十余位客人吃“自助”，看到账单1万4时傻眼：称误将大众点评预估人均费用当自助餐单价\n(4) 著名导演何平微博分享近作《回到被爱的每一天》网盘资源：始终坚持电影是为大银幕观众制作，可如今现状的确无奈\n(5) 王宝强诉马蓉离婚案明日开庭，王宝强方称发声明前曾尝试协议离婚，反遭威胁“要敢发声明，我让你身败名裂”",
+"title": "今天微博都在热议什么",
+"messageId": 260711,
+"topicId": 454,
+"linkUrl": "https://medium.ruguoapp.com/2016/10/17/jin-tian-wei-bo-zai-re-yi-shi-yao-198/",
+"sourceRawValue": "link",
+"messagePrefix": "今日微博热点",
+"collectCount": 36,
+"commentCount": 4,
+"popularity": 36,
+"createdAt": "2016-10-17T11:53:59.501Z",
+"updatedAt": "2016-10-17T11:53:59.501Z",
+"topic": {
+"id": "55963702e4b0d84d2c30ce6f",
+"content": "今天微博都在热议什么",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vqkfpjpp3pg1f3b10kl3es8u.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/Fs6HxHeaqjtyT4XkklqBd8JXL-K7?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/Fs6HxHeaqjtyT4XkklqBd8JXL-K7?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/Fs6HxHeaqjtyT4XkklqBd8JXL-K7?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/Fs6HxHeaqjtyT4XkklqBd8JXL-K7?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 690,
+"height": 518
+}, {
+"thumbnailUrl": "https://cdn.ruguoapp.com/FqSrXjlCizgDpyRMhNQodD-raHx6.png?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "https://cdn.ruguoapp.com/FqSrXjlCizgDpyRMhNQodD-raHx6.png?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "https://cdn.ruguoapp.com/FqSrXjlCizgDpyRMhNQodD-raHx6.png?imageView2/0/h/600/q/30",
+"picUrl": "https://cdn.ruguoapp.com/FqSrXjlCizgDpyRMhNQodD-raHx6.png?imageView2/0/h/1000",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "png",
+"width": 398,
+"height": 571
+}, {
+"thumbnailUrl": "https://cdn.ruguoapp.com/FnAhgbpQD75Oa85RVSpIznojZNGu.png?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "https://cdn.ruguoapp.com/FnAhgbpQD75Oa85RVSpIznojZNGu.png?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "https://cdn.ruguoapp.com/FnAhgbpQD75Oa85RVSpIznojZNGu.png?imageView2/0/h/600/q/30",
+"picUrl": "https://cdn.ruguoapp.com/FnAhgbpQD75Oa85RVSpIznojZNGu.png?imageView2/0/h/1000",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "png",
+"width": 500,
+"height": 526
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FnIU1eyp1TG-Z3iR7T8VQgjMez_-?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FnIU1eyp1TG-Z3iR7T8VQgjMez_-?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FnIU1eyp1TG-Z3iR7T8VQgjMez_-?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FnIU1eyp1TG-Z3iR7T8VQgjMez_-?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 630,
+"height": 944
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FksM9FzH5po9LD2AHjjpKCbQwqMj?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FksM9FzH5po9LD2AHjjpKCbQwqMj?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FksM9FzH5po9LD2AHjjpKCbQwqMj?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FksM9FzH5po9LD2AHjjpKCbQwqMj?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 690,
+"height": 478
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804b798604be013001e092d",
+"content": "【剪切、拷贝、粘贴和其他常用快捷键】Command-C,将所选项拷贝到剪贴板。这同样适用于 Finder 中的文件",
+"title": "每天一个Mac快捷键介绍",
+"messageId": 260696,
+"topicId": 164,
+"sourceRawValue": "none",
+"messagePrefix": "Mac快捷键",
+"collectCount": 11,
+"commentCount": 0,
+"popularity": 11,
+"createdAt": "2016-10-17T11:35:52.208Z",
+"updatedAt": "2016-10-17T11:35:52.208Z",
+"topic": {
+"id": "550be2f3e4b05a2197efa874",
+"content": "每天一个Mac快捷键介绍",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vvbdjhddm6j1rukovkcq16b.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804a1f2537fe412002251da",
+"content": "知乎好问题：\n(1) 各式各样的牙膏，效果真的会有不同吗？\n(2) 如何快速确定一种药是假药？\n(3) 如何评估一辆二手车的价钱？\n(4) 如何区分成人童话和儿童童话？给儿童看的童话故事应该和不应该具备哪些特征？\n(5) 什么是资产证券化？资产证券化的过程是怎么样的？",
+"title": "知乎日报内容精选",
+"messageId": 260580,
+"topicId": 386,
+"linkUrl": "http://daily.zhihu.com/story/8893863",
+"sourceRawValue": "link",
+"collectCount": 127,
+"commentCount": 4,
+"popularity": 127,
+"createdAt": "2016-10-17T10:03:30.435Z",
+"updatedAt": "2016-10-17T10:03:30.435Z",
+"topic": {
+"id": "557271cbe4b0ac81d7f12f43",
+"content": "知乎日报内容精选",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vvu0l132uvvh1hc1kgq1aqb9d.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/290956a0330f4414821e89673556364f?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/290956a0330f4414821e89673556364f?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/290956a0330f4414821e89673556364f?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/290956a0330f4414821e89673556364f?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 640,
+"height": 640
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58048ae7604be013001e07d3",
+"content": "国外一家创意家居公司的宣传视频，这家具用得像魔术一样，真是城会玩！",
+"title": "YouTube每日最火视频",
+"messageId": 260474,
+"topicId": 395,
+"linkUrl": "http://www.miaopai.com/show/hksImTA-5NfYVgIjbUJyeA__.htm",
+"sourceRawValue": "video",
+"messagePrefix": "YouTube今日最火视频",
+"collectCount": 510,
+"commentCount": 20,
+"popularity": 510,
+"createdAt": "2016-10-17T08:25:11.220Z",
+"updatedAt": "2016-10-17T08:25:11.220Z",
+"topic": {
+"id": "5577b317e4b00ff508c0e780",
+"content": "YouTube每日最火视频",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vpnikm1f1pgmg1419m4162a3p.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"video": {
+"type": "VIDEO",
+"thumbnailUrl": "http://media-meta.ruguoapp.com/aa6bb9f70e043c15b8f3ec209f82748e.jpg?imageView2/0/w/800/h/800",
+"source": []
+},
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58048521604be013001e07a2",
+"content": "天气通Pro（¥6→免费）时隔一年多再次限免。天气通的气象指数一直都挺准的，通知中心 Widget 和 Apple Watch 版还算美观，Pro 版又去除了广告，挺值得收（via李大锤同学）",
+"title": "每日iOS限免App精选",
+"messageId": 260445,
+"topicId": 228,
+"linkUrl": "https://itunes.apple.com/cn/app/tian-qi-tongpro/id557079423?mt=1&app=music&ign-mpt=uo%3D4",
+"sourceRawValue": "iosStore",
+"messagePrefix": "今天限免",
+"collectCount": 140,
+"commentCount": 34,
+"popularity": 140,
+"createdAt": "2016-10-17T08:00:33.275Z",
+"updatedAt": "2016-10-17T08:00:33.275Z",
+"topic": {
+"id": "553f5868e4b0982012ea70d3",
+"content": "每日iOS限免App精选",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vvco3bi52lmqnfjt3bf36h.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/FhmkGk0MOWVb5FH0O8lFQtaTQ1gM.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FhmkGk0MOWVb5FH0O8lFQtaTQ1gM.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FhmkGk0MOWVb5FH0O8lFQtaTQ1gM.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FhmkGk0MOWVb5FH0O8lFQtaTQ1gM.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 392,
+"height": 696
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FlqsgScnx1uMnBKImkVdR2y04ntr.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FlqsgScnx1uMnBKImkVdR2y04ntr.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FlqsgScnx1uMnBKImkVdR2y04ntr.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FlqsgScnx1uMnBKImkVdR2y04ntr.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 392,
+"height": 696
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FitqyVjg3IoJ-FdGM2BLfqn-mbK_.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FitqyVjg3IoJ-FdGM2BLfqn-mbK_.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FitqyVjg3IoJ-FdGM2BLfqn-mbK_.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FitqyVjg3IoJ-FdGM2BLfqn-mbK_.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 392,
+"height": 696
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FrgRouTCo6CKSADXABvKvel6ldsp.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FrgRouTCo6CKSADXABvKvel6ldsp.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FrgRouTCo6CKSADXABvKvel6ldsp.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FrgRouTCo6CKSADXABvKvel6ldsp.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 392,
+"height": 696
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FlNqnP8ePmAXbJnICDPn6zcG0n86.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FlNqnP8ePmAXbJnICDPn6zcG0n86.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FlNqnP8ePmAXbJnICDPn6zcG0n86.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FlNqnP8ePmAXbJnICDPn6zcG0n86.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 392,
+"height": 696
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58047f5ed03d8b1100bbfb17",
+"content": "10月17日15时14分在青海玉树州杂多县（北纬32.81度，东经94.93度）发生6.2级地震，震源深度9千米。震中位于高原，平均海拔4700米",
+"title": "Breaking News",
+"messageId": 260420,
+"topicId": 936,
+"linkUrl": "http://news.qq.com/a/20161017/031394.htm",
+"sourceRawValue": "link",
+"messagePrefix": "Breaking News",
+"collectCount": 182,
+"commentCount": 48,
+"popularity": 182,
+"createdAt": "2016-10-17T07:35:58.018Z",
+"updatedAt": "2016-10-17T07:38:06.620Z",
+"topic": {
+"id": "564ab85208987312006e13ab",
+"content": "Breaking News",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a9500ep418b9102d18fbflklf48.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/FuxxRyldteEyYuCu7xYw8R496LZD.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FuxxRyldteEyYuCu7xYw8R496LZD.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FuxxRyldteEyYuCu7xYw8R496LZD.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/FuxxRyldteEyYuCu7xYw8R496LZD.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 640,
+"height": 480
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58047c56d03d8b1100bbfaf4",
+"content": "视频-17日十佳球 韦少砸球抢断一条龙劈扣",
+"title": "NBA每日十佳球",
+"messageId": 260400,
+"topicId": 932,
+"linkUrl": "http://v.qq.com/cover/5/56lwmc9aprz3gqn.html?vid=y0022gippv6",
+"sourceRawValue": "video",
+"collectCount": 26,
+"commentCount": 1,
+"popularity": 26,
+"createdAt": "2016-10-17T07:23:02.379Z",
+"updatedAt": "2016-10-17T07:23:02.379Z",
+"topic": {
+"id": "5649bf1d08987312006e0ac0",
+"content": "NBA每日十佳球",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vphbv1l3rto7ibnev0l732n.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"video": {
+"type": "VIDEO",
+"thumbnailUrl": "http://media-meta.ruguoapp.com/223eb380f55af6f2b3171fe55994d4d4.jpg?imageView2/0/w/800/h/800",
+"source": []
+},
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804784e604be013001e0759",
+"content": "厉害了我的朱碧石",
+"title": "今天有什么好笑的",
+"messageId": 260377,
+"topicId": 176,
+"linkUrl": "http://weibo.com/p/2304445ba3de3d020da8e96a338af383422a0b",
+"sourceRawValue": "video",
+"messagePrefix": "今日好笑",
+"collectCount": 706,
+"commentCount": 19,
+"popularity": 706,
+"createdAt": "2016-10-17T07:05:50.292Z",
+"updatedAt": "2016-10-17T07:05:50.292Z",
+"topic": {
+"id": "55138a7ee4b07860af5a8a11",
+"content": "今天有什么好笑的",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vql0c18ln29l17s9iuk1e7r91.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"video": {
+"type": "VIDEO",
+"thumbnailUrl": "http://media-meta.ruguoapp.com/6c0e7347f3f2b2bc5e6428c01c30f688.jpg?imageView2/0/w/800/h/800",
+"source": []
+},
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58046e43ecf9c012000583b7",
+"content": "NBA季前赛五大囧-詹杜偷吃零食 小乔丹逗比卧底",
+"title": "NBA五大囧",
+"messageId": 260341,
+"topicId": 1165,
+"linkUrl": "http://v.qq.com/x/page/k0337hdllkg.html",
+"sourceRawValue": "video",
+"collectCount": 63,
+"commentCount": 12,
+"popularity": 63,
+"createdAt": "2016-10-17T06:22:59.373Z",
+"updatedAt": "2016-10-17T06:22:59.373Z",
+"topic": {
+"id": "5694cf2c773a0511001b8399",
+"content": "NBA五大囧",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vpgofop91ssf1n5p1c3u1jaa2j.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"video": {
+"type": "VIDEO",
+"thumbnailUrl": "http://media-meta.ruguoapp.com/7cdff2e5877ed7b552a3db8a848c722e.jpg?imageView2/0/w/800/h/800",
+"source": []
+},
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804626b8fa72d110052d89f",
+"content": "神舟十一号这次履行的主要任务是什么？有什么重大意义？",
+"title": "知乎日报内容精选",
+"messageId": 260302,
+"topicId": 386,
+"linkUrl": "http://daily.zhihu.com/story/8893134",
+"sourceRawValue": "link",
+"collectCount": 140,
+"commentCount": 3,
+"popularity": 140,
+"createdAt": "2016-10-17T05:32:27.159Z",
+"updatedAt": "2016-10-17T05:32:27.159Z",
+"topic": {
+"id": "557271cbe4b0ac81d7f12f43",
+"content": "知乎日报内容精选",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vvu0l132uvvh1hc1kgq1aqb9d.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/797c15f44d23c3d3cc76834471258e8e?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/797c15f44d23c3d3cc76834471258e8e?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/797c15f44d23c3d3cc76834471258e8e?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/797c15f44d23c3d3cc76834471258e8e?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 640,
+"height": 640
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804559fd3427a1300d7845c",
+"content": "视频-一周精彩十佳球 韦少突破古德温劈扣绝杀",
+"title": "NBA每日十佳球",
+"messageId": 260246,
+"topicId": 932,
+"linkUrl": "http://v.qq.com/cover/2/2j90z5no4ecjm1t.html?vid=y0021en12qc",
+"sourceRawValue": "video",
+"collectCount": 22,
+"commentCount": 0,
+"popularity": 22,
+"createdAt": "2016-10-17T04:37:51.544Z",
+"updatedAt": "2016-10-17T04:37:51.544Z",
+"topic": {
+"id": "5649bf1d08987312006e0ac0",
+"content": "NBA每日十佳球",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vphbv1l3rto7ibnev0l732n.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"video": {
+"type": "VIDEO",
+"thumbnailUrl": "http://media-meta.ruguoapp.com/8cac07eebd70462cce3d334c2d179385.jpg?imageView2/0/w/800/h/800",
+"source": []
+},
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "580453d48fa72d110052d858",
+"content": "我的孩子能看到：完整的3套星战三部曲，8部哈利波特电影，指环王早就拍完了。他不会懂我的痛。",
+"title": "浴室沉思",
+"messageId": 260237,
+"topicId": 779,
+"linkUrl": "http://weibo.com/2964236717/Ed50k3HlG?from=page_1005052964236717_profile&wvr=6&mod=weibotime",
+"sourceRawValue": "link",
+"messagePrefix": "浴室沉思",
+"collectCount": 175,
+"commentCount": 39,
+"popularity": 175,
+"createdAt": "2016-10-17T04:30:12.903Z",
+"updatedAt": "2016-10-17T06:30:53.271Z",
+"topic": {
+"id": "5618c159add4471100150637",
+"content": "浴室沉思",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vviaq5vm235fvu1tbi1uo37f.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58044cf1d3427a1300d7840a",
+"content": "再工作18天，2016就结束了！",
+"title": "每日轻松一刻",
+"messageId": 260193,
+"topicId": 1084,
+"linkUrl": "http://3g.163.com/ntes/special/0034073A/wechat_article.html?docid=C3INKU58000181BT&isappinstalled=0",
+"sourceRawValue": "link",
+"collectCount": 154,
+"commentCount": 16,
+"popularity": 154,
+"createdAt": "2016-10-17T04:00:49.556Z",
+"updatedAt": "2016-10-17T04:00:49.556Z",
+"topic": {
+"id": "5678eb1c298511110002d38c",
+"content": "每日轻松一刻",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a99q7e7u1nfa1a3uncv1olc1jgno.png?imageView2/0/w/120/h/120/q/30",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "580445f8ecf9c01200058292",
+"content": "BBC新闻音频精选；「Bad Lip Reading」更新提醒；全家有新品提醒；《莎木3》开发及发售进度追踪",
+"title": "即刻有新主题",
+"messageId": 260158,
+"topicId": 209,
+"linkUrl": "jike://newtopiclist",
+"sourceRawValue": "link",
+"messagePrefix": "即刻新主题",
+"collectCount": 90,
+"commentCount": 0,
+"popularity": 90,
+"createdAt": "2016-10-17T03:31:04.518Z",
+"updatedAt": "2016-10-17T03:31:04.518Z",
+"iconUrl": "https://cdn.ruguoapp.com/resources/icons/new-topic-list.png",
+"topic": {
+"id": "5520fb02e4b0d592785f250c",
+"content": "即刻有新主题",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vqv81batoa4rtj2tcal3aq.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "580437a08fa72d110052d769",
+"content": "“《华尔街之狼》里面有这么一段对话，他前妻问他为什么要卖垃圾股票害给穷人，卖给有钱人不行吗？他说你以为有钱人傻啊？穷人穷就是因为自己笨还贪婪，所以才好骗。”   ——鹿萌萌",
+"title": "饭否每日精选",
+"messageId": 260050,
+"topicId": 1345,
+"linkUrl": "http://blog.fanfou.com/digest/#/2016-10-17.daily.daily",
+"sourceRawValue": "link",
+"collectCount": 358,
+"commentCount": 16,
+"popularity": 358,
+"createdAt": "2016-10-17T02:29:52.818Z",
+"updatedAt": "2016-10-17T02:29:52.818Z",
+"topic": {
+"id": "56d177a27cb3331100465f72",
+"content": "饭否每日精选",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1ach6nm599m94re1gvj14r71jaso.jpg?imageView2/0/w/120/h/120/q/30",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "58042d98ecf9c012000581d3",
+"content": "骑士老板晒出2016年总冠军旗帜",
+"title": "克利夫兰骑士队新闻",
+"messageId": 259961,
+"topicId": 1364,
+"linkUrl": "http://www.bbonfire.com/detail/23711?p=article",
+"sourceRawValue": "link",
+"collectCount": 7,
+"commentCount": 0,
+"popularity": 7,
+"createdAt": "2016-10-17T01:47:04.813Z",
+"updatedAt": "2016-10-17T01:47:04.813Z",
+"topic": {
+"id": "56d69d2a803dbd1200144385",
+"content": "克利夫兰骑士队新闻",
+"thumbnailUrl": "http://cdn.ruguoapp.com/FnutAUZSDkp7FNF88AN5v3mzGO8t.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/255b5e625a7316d12cdbb76d3c84e802?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/255b5e625a7316d12cdbb76d3c84e802?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/255b5e625a7316d12cdbb76d3c84e802?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/255b5e625a7316d12cdbb76d3c84e802?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 400,
+"height": 299
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "580416878fa72d110052d699",
+"content": "JR将参加骑士季前赛收官战，已在当地买房",
+"title": "克利夫兰骑士队新闻",
+"messageId": 259851,
+"topicId": 1364,
+"linkUrl": "http://www.bbonfire.com/detail/23701?p=article",
+"sourceRawValue": "link",
+"collectCount": 18,
+"commentCount": 0,
+"popularity": 18,
+"createdAt": "2016-10-17T00:08:39.791Z",
+"updatedAt": "2016-10-17T00:08:39.791Z",
+"topic": {
+"id": "56d69d2a803dbd1200144385",
+"content": "克利夫兰骑士队新闻",
+"thumbnailUrl": "http://cdn.ruguoapp.com/FnutAUZSDkp7FNF88AN5v3mzGO8t.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/3c18bb43c2601bf4fecc3c6634836798?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/3c18bb43c2601bf4fecc3c6634836798?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/3c18bb43c2601bf4fecc3c6634836798?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/3c18bb43c2601bf4fecc3c6634836798?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 400,
+"height": 300
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "580411b2daa7fd1200d560d6",
+"content": "早晨7时30分28秒，搭载着航天员景海鹏、陈冬的神舟十一号载人飞船发射升空！",
+"title": "一觉醒来世界发生了什么",
+"messageId": 259831,
+"topicId": 223,
+"sourceRawValue": "none",
+"messagePrefix": "一觉醒来世界发生了什么",
+"collectCount": 493,
+"commentCount": 64,
+"popularity": 493,
+"createdAt": "2016-10-16T23:48:02.796Z",
+"updatedAt": "2016-10-16T23:48:54.587Z",
+"topic": {
+"id": "553870e8e4b0cafb0a1bef68",
+"content": "一觉醒来世界发生了什么",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vq7puj45lm21bmni019sq6k.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/Fg17HApx2mcH1uwAbKO83v5ZVIVM.jpg?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/Fg17HApx2mcH1uwAbKO83v5ZVIVM.jpg?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/Fg17HApx2mcH1uwAbKO83v5ZVIVM.jpg?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/Fg17HApx2mcH1uwAbKO83v5ZVIVM.jpg?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 440,
+"height": 293
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/ljC9SWpayuZkV2Doz8dPI7E0scOT.gif?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/ljC9SWpayuZkV2Doz8dPI7E0scOT.gif?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/ljC9SWpayuZkV2Doz8dPI7E0scOT.gif?imageView2/0/h/600/format/png",
+"picUrl": "http://cdn.ruguoapp.com/ljC9SWpayuZkV2Doz8dPI7E0scOT.gif",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "gif",
+"frameNumber": 177,
+"width": 338,
+"height": 193
+}, {
+"thumbnailUrl": "http://cdn.ruguoapp.com/FntawJE-AE_6ytwS_DQwWjoCWeAH.gif?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/FntawJE-AE_6ytwS_DQwWjoCWeAH.gif?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/FntawJE-AE_6ytwS_DQwWjoCWeAH.gif?imageView2/0/h/600/format/png",
+"picUrl": "http://cdn.ruguoapp.com/FntawJE-AE_6ytwS_DQwWjoCWeAH.gif",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "gif",
+"frameNumber": 68,
+"width": 418,
+"height": 260
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5804111c8fa72d110052d66e",
+"content": "卢指导亲口确认：新秀费尔德将出任第二控卫",
+"title": "克利夫兰骑士队新闻",
+"messageId": 259830,
+"topicId": 1364,
+"linkUrl": "http://www.bbonfire.com/detail/23699?p=article",
+"sourceRawValue": "link",
+"collectCount": 7,
+"commentCount": 0,
+"popularity": 7,
+"createdAt": "2016-10-16T23:45:32.581Z",
+"updatedAt": "2016-10-16T23:45:32.581Z",
+"topic": {
+"id": "56d69d2a803dbd1200144385",
+"content": "克利夫兰骑士队新闻",
+"thumbnailUrl": "http://cdn.ruguoapp.com/FnutAUZSDkp7FNF88AN5v3mzGO8t.jpg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [{
+"thumbnailUrl": "http://cdn.ruguoapp.com/9beeb216773decb7f4a484fb75bccb45?imageView/2/w/300/h/300/q/30",
+"smallPicUrl": "http://cdn.ruguoapp.com/9beeb216773decb7f4a484fb75bccb45?imageView/2/w/400/h/400/q/30",
+"middlePicUrl": "http://cdn.ruguoapp.com/9beeb216773decb7f4a484fb75bccb45?imageView2/0/h/600/interlace/1/q/30",
+"picUrl": "http://cdn.ruguoapp.com/9beeb216773decb7f4a484fb75bccb45?imageView2/0/h/1000/interlace/0",
+"cropperPosX": 0.5,
+"cropperPosY": 0.5,
+"format": "jpeg",
+"width": 400,
+"height": 300
+}],
+"read": false,
+"collected": false
+},
+"read": false
+}, {
+"type": "MESSAGE",
+"item": {
+"id": "5803fe3f8fa72d110052d61d",
+"content": "(1) 神舟十一号将在今晨7:30完成发射\n(2) 从三证合一到五证合一，国务院力推商事制度改革\n(3) 山西长治纪委撤销对屯留一中教师聚餐处理决定\n(4) 北京居住证办理一号难求，网上现代办业务要千元",
+"title": "一觉醒来世界发生了什么",
+"messageId": 259740,
+"topicId": 223,
+"linkUrl": "https://medium.ruguoapp.com/2016/10/16/yi-jue-xing-lai-1017/",
+"sourceRawValue": "link",
+"messagePrefix": "一觉醒来世界发生了什么",
+"collectCount": 217,
+"commentCount": 14,
+"popularity": 217,
+"createdAt": "2016-10-16T22:25:03.771Z",
+"updatedAt": "2016-10-16T22:25:03.771Z",
+"topic": {
+"id": "553870e8e4b0cafb0a1bef68",
+"content": "一觉醒来世界发生了什么",
+"thumbnailUrl": "http://cdn.ruguoapp.com/o_1a94vq7puj45lm21bmni019sq6k.jpeg?imageView2/0/w/120/h/120/q/30/interlace/1",
+"isValid": true,
+"ref": "NEWS_FEED_MESSAGE"
+},
+"pictureUrls": [],
+"read": false,
+"collected": false
+},
+"read": false
+}],
+"loadMoreKey": {
+"messageIdLessThan": 259740
+}
+}

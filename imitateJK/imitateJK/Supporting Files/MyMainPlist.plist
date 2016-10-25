@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cellInfo</key>
+		<array>
+			<dict>
+				<key>click</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>text</key>
+				<string>点击登录账号</string>
+				<key>icon</key>
+				<string>default_avatar_image_80x80_</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cellInfo</key>
+		<array>
+			<dict>
+				<key>click</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>text</key>
+				<string>我的主题</string>
+				<key>icon</key>
+				<string>my_topics_30x30_</string>
+			</dict>
+			<dict>
+				<key>click</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>text</key>
+				<string>我喜欢的</string>
+				<key>icon</key>
+				<string>my_favorites_30x30_</string>
+			</dict>
+			<dict>
+				<key>click</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>text</key>
+				<string>动态通知</string>
+				<key>icon</key>
+				<string>notification_read_30x36_</string>
+			</dict>
+			<dict>
+				<key>click</key>
+				<string></string>
+				<key>detail</key>
+				<string></string>
+				<key>text</key>
+				<string>小秘书</string>
+				<key>icon</key>
+				<string>chat_with_us_30x30_</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
